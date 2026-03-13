@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude Code — MCP settings với token thật (dùng .claude/settings.json.example làm template)
+.claude/settings.json
